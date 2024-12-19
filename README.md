@@ -21,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arksh&show_icons=true&locale=en" alt="arksh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arksh&" alt="arksh" /></p>
 
